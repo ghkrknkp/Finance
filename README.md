@@ -37,7 +37,7 @@ A responsive Finance Dashboard built using **React.js** that helps users visuali
 👉 https://scintillating-malasada-88150e.netlify.app/
 
 ## 📂 GitHub Repository
-👉 https://github.com/your-username/your-repository
+👉 https://github.com/ghkrknkp/Finance.git
 
 ---
 
