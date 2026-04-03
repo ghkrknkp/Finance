@@ -99,26 +99,23 @@ The application is designed to be **responsive**, ensuring usability across diff
 
 ---
 
-# 📱 Responsive Design
-
-The dashboard layout adapts to:
-
-- Desktop Screens
-- Tablets
-- Mobile Devices
-
-Ensuring consistent user experience across devices.
-
 ---
 
-# 📷 Screenshots (Add Later)
+# 🚀 Installation & Setup
 
-You should add screenshots like:
+To run this project locally:
 
-- Dashboard Overview
-- Charts Section
-- Transaction List
-- Mobile View
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repository.git
 
-Example:
+# Navigate to project folder
+https://github.com/ghkrknkp/Finance.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
 
